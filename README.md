@@ -86,5 +86,5 @@ By following these steps, you should be able to clone a disk using Paragon Parti
 ---
 
 **Additional Resources:**
-- [YouTube Video](https://www.youtube.com/your_video_link)
+- [YouTube Video](https://youtu.be/P6ATQjQD3-U)
 - [Presentation Slides (GitHub Slides.pptx)](https://github.com/your_username/your_repository/blob/main/slides.pptx)
